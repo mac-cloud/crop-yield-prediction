@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load trained model
-model = joblib.load("/home/mac-aphid/Desktop/simulationAssignment/best_crop_yield_model.pkl")
+model = joblib.load("best_crop_yield_model.pkl")
 
 st.set_page_config(page_title="Crop Yield Predictor", layout="wide")
 st.title("🌾 Crop Yield Prediction App")
