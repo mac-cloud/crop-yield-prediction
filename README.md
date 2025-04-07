@@ -53,6 +53,7 @@ To run the project locally, you'll need the following libraries and tools:
 pip install -r requirements.txt
 
 git clone https://github.com/mac-cloud/crop-yield-prediction.git
+
 cd crop-yield-prediction
 # Run
 streamlit run app.py
