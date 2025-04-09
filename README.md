@@ -73,7 +73,7 @@ To run the project locally, ensure you have the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mac-cloud/crop-yield-prediction.git
+git clone https://github.com/mackube/crop-yield-prediction.git
 ```
 
 2. Navigate to the project directory:
